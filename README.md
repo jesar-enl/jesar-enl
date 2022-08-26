@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @jesar-enl
 - 👀 I’m interested in developing software.
-- 🌱 I’m currently learning the Java programming language basics and how to develop code.
+- 🌱 
 - 💞️ I’m looking to collaborate on all aspects.
 - 📫 How to reach me: jessekyambadde0@gmail.com
 
