@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Next, HTML, CSS, JS**
 
-- 👨‍💻 All of my projects are available at [https://jessek10.netlify.app](https://jessek10.netlify.app)
+- 👨‍💻 All of my projects are available at [https://jessekyambadde.netlify.app](https://jessekyambadde.netlify.app)
 
 - 📫 How to reach me **jessekyambadde0@gmail.com**
 
